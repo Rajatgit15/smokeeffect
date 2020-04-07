@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smokeeffect/static/css/main.5e1a9728.chunk.css",
+    "main.js": "/smokeeffect/static/js/main.28d9424f.chunk.js",
+    "main.js.map": "/smokeeffect/static/js/main.28d9424f.chunk.js.map",
+    "runtime-main.js": "/smokeeffect/static/js/runtime-main.516a7593.js",
+    "runtime-main.js.map": "/smokeeffect/static/js/runtime-main.516a7593.js.map",
+    "static/js/2.6f41c62b.chunk.js": "/smokeeffect/static/js/2.6f41c62b.chunk.js",
+    "static/js/2.6f41c62b.chunk.js.map": "/smokeeffect/static/js/2.6f41c62b.chunk.js.map",
+    "index.html": "/smokeeffect/index.html",
+    "precache-manifest.e8a75f99cb3faa91e6cb7e3f02bf478d.js": "/smokeeffect/precache-manifest.e8a75f99cb3faa91e6cb7e3f02bf478d.js",
+    "service-worker.js": "/smokeeffect/service-worker.js",
+    "static/css/main.5e1a9728.chunk.css.map": "/smokeeffect/static/css/main.5e1a9728.chunk.css.map",
+    "static/js/2.6f41c62b.chunk.js.LICENSE.txt": "/smokeeffect/static/js/2.6f41c62b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.516a7593.js",
+    "static/js/2.6f41c62b.chunk.js",
+    "static/css/main.5e1a9728.chunk.css",
+    "static/js/main.28d9424f.chunk.js"
+  ]
+}
